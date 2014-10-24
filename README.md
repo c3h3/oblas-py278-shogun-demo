@@ -5,7 +5,7 @@
 
 ## How to use IPython Notebbok images
 
-### Basic Parameters Usage:
+### Basic Usage:
 
 ```
 docker run -p forward_port:8888 -v outside_ipynbs:/ipynbs -d c3h3/oblas-py278-shogun-ipynb
