@@ -1,7 +1,7 @@
 ## Docker Images:
 
-### - [Base Image](https://registry.hub.docker.com/u/c3h3/oblas-py278-shogun/)
-### - [IPythonNotebbok](https://registry.hub.docker.com/u/c3h3/oblas-py278-shogun-ipynb/)
+### - [BaseImage](https://registry.hub.docker.com/u/c3h3/oblas-py278-shogun/)
+### - [IPythonNotebookImage](https://registry.hub.docker.com/u/c3h3/oblas-py278-shogun-ipynb/)
 
 ## How to use IPython Notebbok images
 
